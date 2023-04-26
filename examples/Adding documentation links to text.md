@@ -1,11 +1,11 @@
-----
+---
 llm: GPT4
 data:
   temperature: 0.7
   
 description: "Asking GPT4 to look through a text for technical terms and link them to corresponding documentation pages."
 
-----
+---
 
 
 **SYSTEM:** Take the input text and return it unchanged, except wrap powershell cmdlets with markdown links to the corresponding powershell doc for that cmdlet. Only change cmdlets that are outside of backticks.
