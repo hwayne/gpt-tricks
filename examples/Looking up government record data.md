@@ -36,8 +36,6 @@ Chemical Engineer: oes172041
 Electrical Engineer: oes172071
 Industrial Engineer: oes172112
 ```
-All of the 
-
 
 **User:**
 
